@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+WebBot/__init__.py
+WebBot/__main__.py
+WebBot/bot.py
+WebBot.egg-info/PKG-INFO
+WebBot.egg-info/SOURCES.txt
+WebBot.egg-info/dependency_links.txt
+WebBot.egg-info/requires.txt
+WebBot.egg-info/top_level.txt
+WebBot/resources/Pesquisar Cargos.png
+WebBot/resources/PesquisarVagas.png
+WebBot/resources/Vagas.png
+WebBot/resources/start.png

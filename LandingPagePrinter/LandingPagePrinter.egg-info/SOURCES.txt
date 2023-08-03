@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+LandingPagePrinter/__init__.py
+LandingPagePrinter/__main__.py
+LandingPagePrinter/bot.py
+LandingPagePrinter.egg-info/PKG-INFO
+LandingPagePrinter.egg-info/SOURCES.txt
+LandingPagePrinter.egg-info/dependency_links.txt
+LandingPagePrinter.egg-info/requires.txt
+LandingPagePrinter.egg-info/top_level.txt
+LandingPagePrinter/resources/start.png

@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botPython/__init__.py
+botPython/__main__.py
+botPython/bot.py
+botPython.egg-info/PKG-INFO
+botPython.egg-info/SOURCES.txt
+botPython.egg-info/dependency_links.txt
+botPython.egg-info/requires.txt
+botPython.egg-info/top_level.txt
+botPython/resources/credentials.json
+botPython/resources/docs.png
+botPython/resources/start.png
